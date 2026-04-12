@@ -36,12 +36,12 @@ function goTo(page) {
 // -----------------------------
 // Handles clicking on hearts
 const reasons = [
-  "My greatest motivator and supporter ever✨.",
-  "You listen to me like no one else ever has❤️.",
-  "My fiercest rival in games🎮💘.",
-  "Your love makes me question my 'Nonchalantness'😤.",
-  "Your smile, eyes, smell, hair and so much more (forehead). That butt tho...🍑.",
-  "You give the best and longest hugs🤗."
+  "You,ve been a calm and positive presence in my life, and i appreciate that 🤍.",
+  "I appreciate how you listen to when i talk. It means a lot to me 🤍.",
+  "Still my favourite opponent when we play 🤍.",
+  "Being around you makes me want to be a better version of myself, in my own way'🤍.",
+  "You,re someone I genuinely appreciate getting to know 🤍.",
+  "I feel at ease whenever we talk 🤍."
 ];
 
 // Updated heart click handling (horizontal bubbles, proper direction)

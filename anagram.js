@@ -10,7 +10,7 @@ window.onload = () => {
 
   let currentWord = "";
   let score = 0;
-  let timeLeft = 30;
+  let timeLeft = 60;
   let timer;
   let found = new Set();
   let gameStarted = false;
@@ -65,7 +65,7 @@ window.onload = () => {
     // ✨ Reset game state
     gameArea.classList.remove("hidden");
     score = 0;
-    timeLeft = 30;
+    timeLeft = 60;
     found.clear();
     updateScore();
     foundWordsDiv.innerHTML = "";
